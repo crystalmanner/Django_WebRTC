@@ -1,0 +1,27 @@
+.vp_teams {
+	text-align:left;
+
+	.vp_add_button {
+		margin:0px;
+		margin-bottom:20px;
+	}
+
+	.vp_detail {
+		font-size:12px;
+		color:$blue;
+	}
+
+	tbody {
+		a {
+			text-decoration:none;
+		}
+	}
+
+	tbody tr:first-child td:first-child {
+		font-weight: bold;
+	}
+
+	tbody tr:first-child td:last-child {
+		text-align: right;
+	}
+}

@@ -1,0 +1,13 @@
+/projects/*/tmp
+/projects/*/dist
+/projects/*/demo
+/certs
+!/projects/*/demo/index.html
+.DS_Store
+.sass-cache
+/node_modules/
+bower_modules
+node_modules
+.grunt
+venv
+.idea
